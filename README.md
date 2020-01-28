@@ -9,6 +9,7 @@ h2oluiz@gmail.com
 * Desenvolvedor Python
 * Django
 * Django REST framework
+* RabbitMQ
 * Administração de Redes Linux I e II
 * Bancos de dados Mysql, Postgresql, Postgis
 * Automatização de tarefas com Python
@@ -64,6 +65,20 @@ h2oluiz@gmail.com
 ### Experiência:
 
 ---
+**Monitoração e Correlação de eventos ** Brasília-DF
+
+Sistema desenvolvido pelo BB para gestão Monitoração e Correlação de eventos do Mainframe
+
+O software tem como plataforma:
+
+* Servidor CENTOS
+* Módulos desenvolvidos em python 3
+* Framework Django
+* Banco de dados: PostgreSQL
+* Tarefas: RabbitMQ
+
+
+**Regine de contrato:** CLT
 
 **SIGEF - Sistema de Gestão Fundiária** Brasília-DF
 
@@ -77,6 +92,7 @@ O software tem como plataforma:
 * Módulos desenvolvidos em python
 * Framework Django
 * Banco de dados: PostgreSQL/Postgis
+* Tarefas: RabbitMQ
 
 
 **Regine de contrato:** CLT
