@@ -18,7 +18,7 @@ h2oluiz@gmail.com
 * CMS Plone, ZOPE
 * Desenvolvedor PHP
 * CMS DRUPAL, Wordpress
-* Desenvolvedor Java, Hibernate, JPA
+* Blockchain
 
 ---
 ### GIS:
