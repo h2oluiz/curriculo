@@ -43,7 +43,7 @@ h2oluiz@gmail.com
 
 ### Formação
 
-**Centro Universitário Cesumar ** 
+Centro Universitário Cesumar
 * Tecnólogo - Sistema de Informação
 
 
@@ -65,9 +65,9 @@ h2oluiz@gmail.com
 ### Experiência:
 
 ---
-**Monitoração e Correlação de eventos ** Brasília-DF
+**Monitoração e Correlação de eventos** Brasília-DF
 
-Sistema desenvolvido pelo BB para gestão Monitoração e Correlação de eventos do Mainframe
+Sistema desenvolvido pelo BB de gestão(Monitoração e Correlação) de eventos do Mainframe
 
 O software tem como plataforma:
 
