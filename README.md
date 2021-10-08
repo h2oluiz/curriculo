@@ -65,7 +65,7 @@ Centro Universitário Cesumar
 ### Experiência:
 
 ---
-**Magazine Luiza - LuizaLabs** Brasília-DF
+**Magazine Luiza - FINTECH** Brasília-DF
 
 Plataforma de emprestimos
 
