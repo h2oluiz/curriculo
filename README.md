@@ -10,15 +10,13 @@ h2oluiz@gmail.com
 * Django
 * Django REST framework
 * RabbitMQ
+* Redis
 * Administração de Redes Linux I e II
 * Bancos de dados Mysql, Postgresql, Postgis
 * Automatização de tarefas com Python
 * Web scraping com Python;
 * Tratamento de dados georreferenciamento com Python
-* REST consumo e servidor
-* CMS Plone, ZOPE
-* Desenvolvedor PHP
-* CMS DRUPAL, Wordpress
+* Rest Full
 * Blockchain
 
 ---
@@ -46,6 +44,8 @@ h2oluiz@gmail.com
 Centro Universitário Cesumar
 * Tecnólogo - Sistema de Informação
 
+PUC Minas
+* Especialização - Arquitetura de Software Distribuído 
 
 ### Cursos de extensão:
 
