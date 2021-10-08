@@ -65,6 +65,21 @@ Centro Universitário Cesumar
 ### Experiência:
 
 ---
+**Magazine Luiza - LuizaLabs** Brasília-DF
+
+Plataforma de emprestimos
+
+O software tem como plataforma:
+
+* Servidor Linux 
+* Módulos desenvolvidos em python 3
+* Framework Django 3
+* Banco de dados: PostgreSQL
+* Tarefas: Redis
+* Microsserviços
+* agendamentos de tarefas
+
+
 **Monitoração e Correlação de eventos** Brasília-DF
 
 Sistema desenvolvido pelo BB de gestão(Monitoração e Correlação) de eventos do Mainframe
