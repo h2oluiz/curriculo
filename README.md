@@ -12,6 +12,7 @@ h2oluiz@gmail.com
 * Celery - Distributed Task Queue
 * RabbitMQ
 * Redis
+* Teste Unitário
 * Administração de Redes Linux I e II
 * Bancos de dados Mysql, Postgresql, Postgis
 * Automatização de tarefas com Python
