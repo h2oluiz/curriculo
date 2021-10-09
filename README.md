@@ -72,7 +72,7 @@ Centro Universitário Cesumar
 
 Plataforma de empréstimos
 
-confiurações:
+configurações:
 
 * Servidor Linux 
 * Módulos desenvolvidos em python 3
@@ -87,7 +87,7 @@ confiurações:
 
 Sistema desenvolvido pelo BB de gestão(Monitoração e Correlação) de eventos do Mainframe
 
-confiurações:
+configurações:
 
 * Servidor CENTOS
 * Módulos desenvolvidos em python 3
@@ -104,7 +104,7 @@ Sistema desenvolvido pelo INCRA/MDA para gestão de informações fundiárias do
 
 Por ele são efetuadas a recepção, validação, organização, regularização e disponibilização das informações georreferenciadas de limites de imóveis rurais. 
 
-confiurações:
+configurações:
 
 * Servidor UBUNTO SERVER e CENTOS
 * Módulos desenvolvidos em python
@@ -125,7 +125,7 @@ com foco na terceirização do serviço bancário.
 Atuei principalmente na adaptação do modelo de negócio proposto pela
 CAIXA(Matriz) para realidade local na forma de sistema.
 
-confiurações:
+configurações:
 
 * Servidor Debian, hospedado cloud Mandic, Apache2 e WSGI;
 * Módulos desenvolvidos em python 2.6;
