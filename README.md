@@ -17,6 +17,7 @@ h2oluiz@gmail.com
 * Web scraping com Python;
 * Tratamento de dados georreferenciamento com Python
 * Rest Full
+* Docker
 * Blockchain
 
 ---
