@@ -70,7 +70,7 @@ Centro Universitário Cesumar
 ---
 **Magazine Luiza - FINTECH** Brasília-DF
 
-Plataforma de emprestimos
+Plataforma de empréstimos
 
 O software tem como plataforma:
 
