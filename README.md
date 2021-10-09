@@ -1,5 +1,4 @@
-Luiz Santos
-==========
+# Luiz Santos
 Brasília/DF
 
 Contato:
@@ -27,9 +26,7 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Rest Full
 * Docker
 * Blockchain
-
-#### GIS:
-
+> GIS
 * Qgis
 * Geonode
 * lib geos
@@ -44,8 +41,6 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * mapfish
 * OpenLayers
 * GeoServer
-
----
 
 ### Formação
 
@@ -72,7 +67,7 @@ Centro Universitário Cesumar
 
 ### Experiência:
 
----
+
 **Magazine Luiza - FINTECH** Brasília-DF
 
 Plataforma de empréstimos
