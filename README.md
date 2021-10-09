@@ -3,6 +3,8 @@ Luiz Carlos dos Santos
 
 Contato:
 h2oluiz@gmail.com
+Linkedin 
+https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 
 ### Perfil:
 
