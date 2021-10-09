@@ -9,6 +9,7 @@ h2oluiz@gmail.com
 * Desenvolvedor Python
 * Django
 * Django REST framework
+* Celery - Distributed Task Queue
 * RabbitMQ
 * Redis
 * Administração de Redes Linux I e II
