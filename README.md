@@ -1,13 +1,14 @@
-Luiz Carlos dos Santos
+Luiz Santos
 ==========
-
+Brasília - DF
 Contato:
 h2oluiz@gmail.com
 
+### Rede Social:
 Linkedin:
 https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 
-### Perfil:
+### Habilidades:
 
 * Desenvolvedor Python
 * Django
