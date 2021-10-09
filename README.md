@@ -44,11 +44,11 @@ h2oluiz@gmail.com
 
 ### Formação
 
+Pontifícia Universidade Católica de Minas Gerais (PUC)
+* Cursando - Especialização em Arquitetura de Software Distribuído
+
 Centro Universitário Cesumar
 * Tecnólogo - Sistema de Informação
-
-PUC Minas
-* Especialização - Arquitetura de Software Distribuído 
 
 ### Cursos de extensão:
 
@@ -144,9 +144,3 @@ hardware, montagem de rede e servidores.
 **Regine de contrato:** Prestador de serviço
 
 ---
-
-**Novo Aviamento LTDA**
-
-Empresa atua na venda de varejo e atacado de aviamentos e necessitava de uma solução de sincronização de banco de dados entre as filias.
-
-**Regine de contrato:** Prestador de serviço
