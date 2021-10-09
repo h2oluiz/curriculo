@@ -1,12 +1,14 @@
 Luiz Santos
 ==========
-Brasília - DF
+Brasília/DF
+
 Contato:
 h2oluiz@gmail.com
 
 ### Rede Social:
 Linkedin:
 https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
+
 
 ### Habilidades:
 
@@ -26,8 +28,7 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Docker
 * Blockchain
 
----
-### GIS:
+#### GIS:
 
 * Qgis
 * Geonode
