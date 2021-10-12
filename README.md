@@ -26,6 +26,7 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Nginx
 * GIT
 * Arquitetura REST + JSON
+* WebSockets
 * Docker
 * Blockchain
 > GIS
