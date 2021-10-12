@@ -23,6 +23,7 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Automatização de tarefas com Python
 * Web scraping com Python;
 * Tratamento de dados georreferenciamento com Python
+* Nginx
 * Rest Full
 * Docker
 * Blockchain
