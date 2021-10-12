@@ -66,7 +66,7 @@ Centro Universitário Cesumar
 * Formação de Educadores Sociais - PAMEN
 
 
-### Experiência:
+### Experiência Profissional:
 
 
 **Magazine Luiza - FINTECH** Brasília-DF
