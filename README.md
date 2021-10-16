@@ -24,6 +24,7 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Web scraping com Python;
 * Tratamento de dados georreferenciamento com Python
 * Nginx
+* Gunicorn
 * GIT
 * Arquitetura REST + JSON
 * WebSockets
