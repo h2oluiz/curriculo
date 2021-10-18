@@ -9,9 +9,9 @@ Linkedin:
 https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 
 
-### Habilidades:
+### Skills:
 
-* Desenvolvedor Python
+* Python
 * Django
 * Django REST framework
 * Celery - Distributed Task Queue
