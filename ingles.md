@@ -1,10 +1,11 @@
 # Luiz Santos
 Brasília/DF
 
-Contact:
+### Contact:
+
+email:
 h2oluiz@gmail.com
 
-### Rede Social:
 Linkedin:
 https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 
@@ -17,9 +18,9 @@ https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
 * Celery - Distributed Task Queue
 * RabbitMQ
 * Redis
-* Teste Unitário
-* Administração de Redes Linux I e II
-* Bancos de dados Mysql, Postgresql, Postgis
+* Pytest
+* Linux
+* Mysql, Postgresql, Postgis
 * Automatização de tarefas com Python
 * Web scraping com Python;
 * Tratamento de dados georreferenciamento com Python
