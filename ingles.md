@@ -1,151 +1,61 @@
-# Luiz Santos
-Brasília/DF
+## LUIZ SANTOS
+Python Develop
+ 
+email: h2oluiz@gmail.com 
 
-### Contact:
+linkedin: https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787
 
-email:
-h2oluiz@gmail.com
+phone: +55 81 98983-0573
 
-Linkedin:
-https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
+#### 🚀 ABOUT ME
+IT professional with over 9 years of experience in systems analysis and software development, in many market segments and different sized companies, working with different methodologies (RUP, SCRUM). I am a versatile professional, able to work with different and diverse technologies, roles, and projects.
 
+#### 🚀 SKILLS
 
-### Skills:
-
-* Python
-* Django
-* Django REST framework
-* Celery - Distributed Task Queue
-* RabbitMQ
-* Redis
-* Pytest
-* Linux
-* Mysql, Postgresql, Postgis
-* Automatização de tarefas com Python
-* Web scraping com Python;
-* Tratamento de dados georreferenciamento com Python
-* Nginx
-* Gunicorn
-* GIT
-* Arquitetura REST + JSON
-* WebSockets
-* Docker
-* Blockchain
-> GIS
-* Qgis
-* Geonode
-* lib geos
-* lib proj
-* lib proj-epsg
-* Postgis
-* Os2geo
-* GeoTools
-* GDAL/OGR
-* MapServer
-* MapGuide Open Source
-* mapfish
-* OpenLayers
-* GeoServer
-
-### Formação
-
-Pontifícia Universidade Católica de Minas Gerais (PUC)
-* Cursando - Especialização em Arquitetura de Software Distribuído
-
-Centro Universitário Cesumar
-* Tecnólogo - Sistema de Informação
-
-### Cursos de extensão:
-
-* Blockchain para Negócios
-* Linux - SENAC CARUARU
-* Administração de redes Linux I e II - FABEJA
-* Manutenção de computadores
-* Computação Gráfica para WEB
-* Curso de extensão em Programação PHP
-* Configuração básica de roteadores CISCO
-* Treinamento Franquia People – Desenvolvimento de jogos - RECIFE
-* Computação nas Nuvens: Um Novo Jeito de Fazer Negócios - UPE  
-* Curso "Como identificar Oportunidades e Criar Seu Próprio Negócio" - SEBRAE
-* Formação de Educadores Sociais - PAMEN
+Linux, Python, Django, Celery, PostgreSQL, Postgis, RabbitMQ, Git, Docker, Nginx, Redis, Gunicorn, Pytest, Shell Script, Flask,  
 
 
-### Experiência Profissional:
+#### 🚀 EDUCATION
+
+**PUC MINAS (2020 - 2021)**
+> Specialization in Distributed Software Architecture
+
+**UNICESUMAR (2014 - 2017)**
+> Technologist in Systems Analysis and Development 
+
+#### 🚀 WORKING EXPERIENCES
+
+>**Luizalabs (2020 - 2021) - Senior Python Developer**
+>
+|Client    |Type    |Project           |Description         |Technology Stack |
+|----------|--------|------------------|--------------------|-----------------|
+|Magalu Pay|Fintech |Magalu Loan       |loan platform       |Python, Django, DRF, Celery, Linux, Git, Redis, PostgreSQL, Cron, Microservices, Apache kafka, Pytest|
+
+>**Cast Group (2019 - 2020) - Tech Specialistm - Python**
+>
+|Client    |Type    |Project           |Description         |Technology Stack |
+|----------|--------|------------------|--------------------|-----------------|
+|Banco do Brasil |Bank |MCE       |event monitoring and correlation      |Python, Django, Django Channels, DRF, Celery, Linux, Git, Redis, PostgreSQL, Cron, Docker, Microservice, Pytest|
+|Banco do Brasil |Bank |IDS       |monitoring of network connected equipment      |Python, Django, DRF, Celery, Linux, Git, Redis, PostgreSQL, Angular, Docker, Microservices|
 
 
-**Magazine Luiza - FINTECH** Brasília-DF
 
-Plataforma de empréstimos
-
-configurações:
-
-* Servidor Linux 
-* Módulos desenvolvidos em python 3
-* Framework Django 3
-* Banco de dados: PostgreSQL
-* Tarefas: Redis
-* Microsserviços
-* agendamentos de tarefas
+>**Softway Tecnologia (2014 - 2019) - Python Developer**
+>
+|Client    |Type    |Project           |Description         |Technology Stack |
+|----------|--------|------------------|--------------------|-----------------|
+|INCRA/GOV |Georeferencing |SIGEF      |system developed by INCRA for the management of land information in rural Brazil      |Python, Django, Celery, Linux, Git, RabbitMQ, PostgreSQL, PostGIS,  Cron, VPS, GDAL |
 
 
-**Monitoração e Correlação de eventos** Brasília-DF
-
-Sistema desenvolvido pelo BB de gestão(Monitoração e Correlação) de eventos do Mainframe
-
-configurações:
-
-* Servidor CENTOS
-* Módulos desenvolvidos em python 3
-* Framework Django
-* Banco de dados: PostgreSQL
-* Tarefas: RabbitMQ
+>**MicroAgreste (2012 - 2014) - Python Developer**
+>
+|Client    |Type    |Project           |Description         |Technology Stack |
+|----------|--------|------------------|--------------------|-----------------|
+|CEF       |Bank    | Caixa Facil      |correspondence system|Python, Django,Linux, Git, PostgreSQL|
 
 
-**Regine de contrato:** CLT
+#### 🚀 LANGUAGES
 
-**SIGEF - Sistema de Gestão Fundiária** Brasília-DF
+Portuguese (Native)
 
-Sistema desenvolvido pelo INCRA/MDA para gestão de informações fundiárias do meio rural brasileiro.
-
-Por ele são efetuadas a recepção, validação, organização, regularização e disponibilização das informações georreferenciadas de limites de imóveis rurais. 
-
-configurações:
-
-* Servidor UBUNTO SERVER e CENTOS
-* Módulos desenvolvidos em python
-* Framework Django
-* Banco de dados: PostgreSQL/Postgis
-* Tarefas: RabbitMQ
-
-
-**Regine de contrato:** CLT
-
-**MicroAgreste (Correspondente MASTER CEF Nordeste)** Recife-PE
-
-Sistema de correspondência bancaria Crediário Caixa Fácil, software que gerencia a
-concessão de microcrédito do tipo “linha branca” junto a lojista de Pernambuco
-com atuação em todas agências Caixa e lojistas credenciados em todo estado
-com foco na terceirização do serviço bancário.
-
-Atuei principalmente na adaptação do modelo de negócio proposto pela
-CAIXA(Matriz) para realidade local na forma de sistema.
-
-configurações:
-
-* Servidor Debian, hospedado cloud Mandic, Apache2 e WSGI;
-* Módulos desenvolvidos em python 2.6;
-* Framework Django 1.5;
-* Banco de dados: Mysql;
-
-**Regine de contrato:** Prestador de serviço
-
----
-
-**Franquia People- Formação Completa**
-
-Instrutor de aprendizagem em Informática ministrando aulas no curso de lógica de programação, banco de dados,
-hardware, montagem de rede e servidores.
-
-**Regine de contrato:** Prestador de serviço
-
----
+English (Minimum Professional Proficiency)
