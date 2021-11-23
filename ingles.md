@@ -57,4 +57,5 @@ Linux, Python, Django, Celery, PostgreSQL, Postgis, RabbitMQ, Git, Docker, Nginx
 #### 🚀 LANGUAGES
 
 > Portuguese (Native)
+> 
 > English (Minimum Professional Proficiency)
