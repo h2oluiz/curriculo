@@ -12,7 +12,7 @@ IT professional with over 9 years of experience in systems analysis and software
 
 #### 🚀 SKILLS
 
-Linux, Python, Django, Celery, PostgreSQL, Postgis, RabbitMQ, Git, Docker, Nginx, Redis, Gunicorn, Pytest, Shell Script, Flask,  
+Linux, Python, Django, Celery, PostgreSQL, Postgis, RabbitMQ, Git, Docker, Nginx, Redis, Gunicorn, Pytest, Shell Script, Flask, GCP, Heroku, DigitalOcean   
 
 
 #### 🚀 EDUCATION
