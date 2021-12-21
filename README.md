@@ -6,7 +6,7 @@ h2oluiz@gmail.com
 
 ### Rede Social:
 Linkedin:
-https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787/
+https://www.linkedin.com/in/luiz-santos-99370787/
 
 
 ### Habilidades:
