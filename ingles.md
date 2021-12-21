@@ -3,7 +3,7 @@ Python Develop
  
 email: h2oluiz@gmail.com 
 
-linkedin: https://www.linkedin.com/in/luiz-carlos-dos-santos-99370787
+linkedin: https://www.linkedin.com/in/luiz-santos-99370787/
 
 phone: +55 81 98983-0573
 
