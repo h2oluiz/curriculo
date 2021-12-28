@@ -1,5 +1,5 @@
 ## LUIZ SANTOS
-Python Develop
+Python Developer
  
 email: h2oluiz@gmail.com 
 
