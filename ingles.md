@@ -3,7 +3,7 @@ Python Developer
  
 email: h2oluiz@gmail.com 
 
-linkedin: https://www.linkedin.com/in/luiz-santos-99370787/
+linkedin: https://www.linkedin.com/in/h2oluiz
 
 phone: +55 81 98983-0573
 
@@ -24,6 +24,12 @@ Linux, Python, Django, Celery, PostgreSQL, Postgis, RabbitMQ, Git, Docker, Nginx
 > Technologist in Systems Analysis and Development 
 
 #### 🚀 WORKING EXPERIENCES
+
+>**Spread Tecnologia (2021 - ) - Senior Python Developer**
+>
+|Client    |Type    |Project           |Description         |Technology Stack |
+|----------|--------|------------------|--------------------|-----------------|
+|Brasil Prev|Bank |Financy       |backend financy       |Python, Flask, Linux, Git, Microservices, Pytest|
 
 >**Luizalabs (2020 - 2021) - Senior Python Developer**
 >
