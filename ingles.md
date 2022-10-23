@@ -5,7 +5,6 @@ email: h2oluiz@gmail.com
 
 linkedin: https://www.linkedin.com/in/h2oluiz
 
-phone: +55 81 98983-0573
 
 #### 🚀 ABOUT ME
 IT professional with over 9 years of experience in systems analysis and software development, in many market segments and different sized companies, working with different methodologies (RUP, SCRUM). I am a versatile professional, able to work with different and diverse technologies, roles, and projects.
